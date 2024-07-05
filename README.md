@@ -1,4 +1,4 @@
-# Solvative
+## Solvative Stopwatch
 # Desktop
 <img width="1470" alt="Screenshot 2024-07-05 at 10 27 23 PM" src="https://github.com/4nku5h1/Solvative/assets/86114581/8af5a9dd-5ecc-4247-bea0-43fa316baebb">
 
